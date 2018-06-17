@@ -6,7 +6,7 @@
 
 ### Download manually
 
-[Clone the repo](https://github.com/bennygenel/nextjs-with-unstated):
+#### Clone the repo:
 
 ```bash
 git clone https://github.com/bennygenel/nextjs-with-unstated
