@@ -31,6 +31,15 @@ now
 
 ## The idea behind the example
 
-This example shows how to integrate Unstated in Next.js. For more info about Unstated you can visit [here](https://github.com/jamiebuilds/unstated)
+This example shows how to integrate Unstated in Next.js. For more info about Unstated you can visit [here](https://github.com/jamiebuilds/unstated). The example is basically same as [redux example](https://github.com/zeit/next.js/tree/canary/examples/with-redux)
 
 > Unstated is designed to build on top of the patterns already set out by React components and context.
+>
+> It has three pieces:
+>
+> - #### `Container`
+>
+>  - #### `<Subscribe>`
+>
+> - #### `<Provider>`
+> <br />
