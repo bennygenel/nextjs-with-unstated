@@ -1,4 +1,4 @@
-export default ({ clock: { state:{ lastUpdate, light } } }) => {
+export default ({ clock: { state: { lastUpdate, light } } }) => {
   return (
     <div className={light ? 'light' : ''}>
       {format(new Date(lastUpdate))}
