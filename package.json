@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-with-unstated",
+  "version": "0.1.0",
+  "description": "Next.js example with unstated",
+  "repository": "https://github.com/bennygenel/nextjs-with-unstated.git",
+  "author": "Benny Genel <bennygenel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "unstated": "^2.1.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
